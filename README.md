@@ -58,9 +58,4 @@ Output:
 
 - `Dice.rs` — Main source file containing all logic
 
-## License
-
-MIT License
-
----
 Created by [pixxechan](https://github.com/pixxechan)
